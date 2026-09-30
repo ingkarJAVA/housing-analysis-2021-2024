@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.DS_Store
+data/
+results/**/households.csv
+results/**/households_all_years.csv

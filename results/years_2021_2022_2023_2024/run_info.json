@@ -1,0 +1,88 @@
+{
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "min_pairs": 30,
+  "data_dir": "C:\\Users\\INKAR\\OneDrive\\Desktop\\housing_project_2021_2024\\data",
+  "versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.4.3"
+  },
+  "inputs": {
+    "2021": {
+      "roster": {
+        "path": "d008/2021/kontr_k.csv",
+        "sha256": "b9f6ff3ad66e119c390be25175218290923a8166173e6c707732f7c33c629390"
+      },
+      "dwelling": {
+        "path": "d006/2021/rio.csv",
+        "sha256": "c4b1a1e8c5a0eef0670b6b47dbdea158c81ad579a5f9dc81e54a160c9a4cfe42"
+      },
+      "subject": {
+        "path": "d002/2021/subject.csv",
+        "sha256": "271e3a681f7598010e07f5216de980f7bd5861cd860592b39ae60ae4d6380215"
+      },
+      "assessment": {
+        "path": "d002/2021/ocenka.csv",
+        "sha256": "36add272ed9e2bb8a252406f0e8038e6542b5a2950ea53b3efdfc67110381ae6"
+      }
+    },
+    "2022": {
+      "roster": {
+        "path": "d008/2022/kontr_k.csv",
+        "sha256": "0e07481b57148db781b866df818aeaccaaa1e550d437cb019172c169bde97625"
+      },
+      "dwelling": {
+        "path": "d006/2022/rio2022.csv",
+        "sha256": "6570747749cd0ccf82efd76b77d4a4dc1d74caf155b40bd8e4c0a7c638589370"
+      },
+      "subject": {
+        "path": "d002/2022/subject.csv",
+        "sha256": "4eba88e83950b829d0f12e3041dbd6b4861ef8800e6044e6774d821db4ea965a"
+      },
+      "assessment": {
+        "path": "d002/2022/ocenka.csv",
+        "sha256": "e91d1c8a6652e15e39a5b7cd6748c3b40aee364f56d88dc3d3142f72eb6ecdb1"
+      }
+    },
+    "2023": {
+      "roster": {
+        "path": "d008/2023/kontr_k.csv",
+        "sha256": "5f36df63a3cd9b958afe7c092e7add8c4f6aee1893fdc3b3d3aeff54a634f77f"
+      },
+      "dwelling": {
+        "path": "d006/2023/rio2023.csv",
+        "sha256": "68249942d5ea8bd5bd542e65c2e09c70776b208880008ba4b8d3c8b111c464a5"
+      },
+      "subject": {
+        "path": "d002/2023/subject.csv",
+        "sha256": "27c03d523b1a77ca66cead5f48ed3ef8f0ae0ce81007c8cfa395cd793378ae8c"
+      },
+      "assessment": {
+        "path": "d002/2023/ocenka.csv",
+        "sha256": "783e5d3802b6c8a0239fda8c489d89737f4e9da719c4fcf086a619725f6ea860"
+      }
+    },
+    "2024": {
+      "roster": {
+        "path": "d008/2024/kontr_k.csv",
+        "sha256": "c392af2521a8d782674329d8994eff48910b9bea49ee2884156200e1796db0e3"
+      },
+      "dwelling": {
+        "path": "d006/2024/rio_2024.csv",
+        "sha256": "a994252b4856d85dae2e164089ef08910cf9da545036faa07e4910e61f2a3f86"
+      },
+      "subject": {
+        "path": "d002/2024/subject.csv",
+        "sha256": "644eba9fbaa964cc075c1af879ad320516a7e59d22490d67a752e141c71aa93a"
+      },
+      "assessment": {
+        "path": "d002/2024/ocenka.csv",
+        "sha256": "d123e10627764d7c7f6e5835f1a04623ba28eb19c878dee0a6fcc8dcab940d64"
+      }
+    }
+  }
+}

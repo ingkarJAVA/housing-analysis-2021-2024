@@ -1,0 +1,65 @@
+{
+  "year": 2023,
+  "source_rows": {
+    "roster": 42689,
+    "dwelling": 11659,
+    "subject": 11953,
+    "assessment": 11953
+  },
+  "households": 12000,
+  "age_available": true,
+  "heat_question_available": true,
+  "reported_size_mismatch": 0,
+  "dwelling_unmatched_households": 0,
+  "dwelling_TE_mismatch": 0,
+  "dwelling_K_mismatch": 0,
+  "subject_unmatched_households": 0,
+  "subject_TE_mismatch": 0,
+  "subject_K_mismatch": 0,
+  "subject_unmatched_people": 0,
+  "assessment_unmatched_households": 0,
+  "assessment_TE_mismatch": 0,
+  "assessment_K_mismatch": 0,
+  "assessment_unmatched_people": 0,
+  "d002_different_respondents": 328,
+  "OB_PL_excluded_nonmissing": 0,
+  "J_PL_excluded_nonmissing": 0,
+  "KOL_K_excluded_nonmissing": 0,
+  "living_area_exceeds_total": 44,
+  "U14_codes": {
+    "1": 9519,
+    "2": 2140
+  },
+  "GR1_excluded_codes": {
+    "89": 21
+  },
+  "GR2_excluded_codes": {
+    "89": 29
+  },
+  "GR4_excluded_codes": {
+    "89": 300
+  },
+  "GR31_2_codes": {
+    "3": 10659,
+    "4": 550,
+    "1": 388,
+    "2": 356
+  },
+  "heat_raw_codes": {
+    "1": 11341,
+    "2": 612
+  },
+  "missing_by_variable": {
+    "persons": 0,
+    "child_share": 0,
+    "area": 341,
+    "area_per_person": 341,
+    "persons_per_room": 341,
+    "life_satisfaction": 68,
+    "living_satisfaction": 76,
+    "finance_satisfaction": 347,
+    "utility_difficulty": 912,
+    "heat_difficulty": 375,
+    "no_indoor_water": 341
+  }
+}

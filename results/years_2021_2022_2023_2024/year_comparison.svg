@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+<rect width="1100" height="560" fill="white"/>
+<g font-family="Arial,sans-serif">
+<text x="30" y="35" font-size="24" text-anchor="start" fill="#183044">Сравнение независимых выборок по годам</text>
+<text x="30" y="66" font-size="14" text-anchor="start" fill="#183044">Разные семьи каждый год · синтетические данные · без весов обследования</text>
+<text x="75" y="117" font-size="16" text-anchor="start" fill="#183044">Площадь на человека: медиана, м²</text>
+<line x1="75" x2="485" y1="430.0" y2="430.0" stroke="#e4eaf0"/>
+<text x="63" y="435.0" font-size="12" text-anchor="end" fill="#183044">0.0</text>
+<line x1="75" x2="485" y1="360.0" y2="360.0" stroke="#e4eaf0"/>
+<text x="63" y="365.0" font-size="12" text-anchor="end" fill="#183044">6.5</text>
+<line x1="75" x2="485" y1="290.0" y2="290.0" stroke="#e4eaf0"/>
+<text x="63" y="295.0" font-size="12" text-anchor="end" fill="#183044">13.0</text>
+<line x1="75" x2="485" y1="220.0" y2="220.0" stroke="#e4eaf0"/>
+<text x="63" y="225.0" font-size="12" text-anchor="end" fill="#183044">19.5</text>
+<line x1="75" x2="485" y1="150.0" y2="150.0" stroke="#e4eaf0"/>
+<text x="63" y="155.0" font-size="12" text-anchor="end" fill="#183044">26.0</text>
+<text x="126.25" y="455" font-size="14" text-anchor="middle" fill="#183044">2021</text>
+<text x="126.25" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11636</text>
+<rect x="95.5" y="209.23076923076923" width="61.5" height="220.76923076923077" fill="#286ca5"/>
+<text x="126.25" y="197.23076923076923" font-size="15" text-anchor="middle" fill="#183044">20.50</text>
+<text x="228.75" y="455" font-size="14" text-anchor="middle" fill="#183044">2022</text>
+<text x="228.75" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11744</text>
+<rect x="198.0" y="207.43589743589743" width="61.5" height="222.56410256410257" fill="#286ca5"/>
+<text x="228.75" y="195.43589743589743" font-size="15" text-anchor="middle" fill="#183044">20.67</text>
+<text x="331.25" y="455" font-size="14" text-anchor="middle" fill="#183044">2023</text>
+<text x="331.25" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11659</text>
+<rect x="300.5" y="209.23076923076923" width="61.5" height="220.76923076923077" fill="#286ca5"/>
+<text x="331.25" y="197.23076923076923" font-size="15" text-anchor="middle" fill="#183044">20.50</text>
+<text x="433.75" y="455" font-size="14" text-anchor="middle" fill="#183044">2024</text>
+<text x="433.75" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11704</text>
+<rect x="403.0" y="198.46153846153848" width="61.5" height="231.53846153846152" fill="#286ca5"/>
+<text x="433.75" y="186.46153846153848" font-size="15" text-anchor="middle" fill="#183044">21.50</text>
+<text x="610" y="117" font-size="16" text-anchor="start" fill="#183044">Трудности оплаты ЖКУ, % валидных ответов</text>
+<line x1="610" x2="1020" y1="430.0" y2="430.0" stroke="#e4eaf0"/>
+<text x="598" y="435.0" font-size="12" text-anchor="end" fill="#183044">0.0</text>
+<line x1="610" x2="1020" y1="360.0" y2="360.0" stroke="#e4eaf0"/>
+<text x="598" y="365.0" font-size="12" text-anchor="end" fill="#183044">5.5</text>
+<line x1="610" x2="1020" y1="290.0" y2="290.0" stroke="#e4eaf0"/>
+<text x="598" y="295.0" font-size="12" text-anchor="end" fill="#183044">11.0</text>
+<line x1="610" x2="1020" y1="220.0" y2="220.0" stroke="#e4eaf0"/>
+<text x="598" y="225.0" font-size="12" text-anchor="end" fill="#183044">16.5</text>
+<line x1="610" x2="1020" y1="150.0" y2="150.0" stroke="#e4eaf0"/>
+<text x="598" y="155.0" font-size="12" text-anchor="end" fill="#183044">22.0</text>
+<text x="661.25" y="455" font-size="14" text-anchor="middle" fill="#183044">2021</text>
+<text x="661.25" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11328</text>
+<rect x="630.5" y="216.08115048793013" width="61.5" height="213.91884951206987" fill="#286ca5"/>
+<line x1="661.25" x2="661.25" y1="224.70183019832504" y2="207.17404533135385" stroke="#183044" stroke-width="2"/>
+<line x1="655.25" x2="667.25" y1="224.70183019832504" y2="224.70183019832504" stroke="#183044" stroke-width="2"/>
+<line x1="655.25" x2="667.25" y1="207.17404533135385" y2="207.17404533135385" stroke="#183044" stroke-width="2"/>
+<text x="661.25" y="199.17404533135385" font-size="15" text-anchor="middle" fill="#183044">16.81</text>
+<text x="763.75" y="455" font-size="14" text-anchor="middle" fill="#183044">2022</text>
+<text x="763.75" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11274</text>
+<rect x="733.0" y="324.5602915799829" width="61.5" height="105.43970842001708" fill="#286ca5"/>
+<line x1="763.75" x2="763.75" y1="330.85688223949535" y2="317.90200097221293" stroke="#183044" stroke-width="2"/>
+<line x1="757.75" x2="769.75" y1="330.85688223949535" y2="330.85688223949535" stroke="#183044" stroke-width="2"/>
+<line x1="757.75" x2="769.75" y1="317.90200097221293" y2="317.90200097221293" stroke="#183044" stroke-width="2"/>
+<text x="763.75" y="309.90200097221293" font-size="15" text-anchor="middle" fill="#183044">8.28</text>
+<text x="866.25" y="455" font-size="14" text-anchor="middle" fill="#183044">2023</text>
+<text x="866.25" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11088</text>
+<rect x="835.5" y="347.8145087235996" width="61.5" height="82.18549127640037" fill="#286ca5"/>
+<line x1="866.25" x2="866.25" y1="353.4470911616753" y2="341.7980530138092" stroke="#183044" stroke-width="2"/>
+<line x1="860.25" x2="872.25" y1="353.4470911616753" y2="353.4470911616753" stroke="#183044" stroke-width="2"/>
+<line x1="860.25" x2="872.25" y1="341.7980530138092" y2="341.7980530138092" stroke="#183044" stroke-width="2"/>
+<text x="866.25" y="333.7980530138092" font-size="15" text-anchor="middle" fill="#183044">6.46</text>
+<text x="968.75" y="455" font-size="14" text-anchor="middle" fill="#183044">2024</text>
+<text x="968.75" y="475" font-size="11" text-anchor="middle" fill="#183044">n=11404</text>
+<rect x="938.0" y="338.9314753993814" width="61.5" height="91.0685246006186" fill="#286ca5"/>
+<line x1="968.75" x2="968.75" y1="344.7704809003334" y2="332.72521274763784" stroke="#183044" stroke-width="2"/>
+<line x1="962.75" x2="974.75" y1="344.7704809003334" y2="344.7704809003334" stroke="#183044" stroke-width="2"/>
+<line x1="962.75" x2="974.75" y1="332.72521274763784" y2="332.72521274763784" stroke="#183044" stroke-width="2"/>
+<text x="968.75" y="324.72521274763784" font-size="15" text-anchor="middle" fill="#183044">7.16</text>
+<text x="30" y="484" font-size="14" text-anchor="start" fill="#183044">Усы на графике ЖКУ: 95% доверительный интервал Уилсона, без учёта дизайна обследования.</text>
+<text x="30" y="512" font-size="14" text-anchor="start" fill="#183044">Изменение состава выборки и синтез могут влиять на различия. Это не изменения у одних и тех же семей.</text>
+<text x="30" y="540" font-size="14" text-anchor="start" fill="#183044">ЖКУ: ответы «не актуально», пропуски и несовпадающие респонденты D002 исключены из знаменателя.</text>
+</g></svg>
